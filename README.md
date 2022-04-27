@@ -1,4 +1,6 @@
 # Hi! 👋
+
+[![wakatime](https://wakatime.com/badge/user/b8084777-78d2-4ec7-9e14-90658b0973ae.svg)](https://wakatime.com/@b8084777-78d2-4ec7-9e14-90658b0973ae)
 ## Who am I?
 <!--- 🔭 I’m currently working on ...-->
 - 🌱 I’m currently learning ...
