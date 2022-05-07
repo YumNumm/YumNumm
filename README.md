@@ -1,9 +1,10 @@
 # Hi! 👋
-
-[![wakatime](https://wakatime.com/badge/user/b8084777-78d2-4ec7-9e14-90658b0973ae.svg)](https://wakatime.com/@b8084777-78d2-4ec7-9e14-90658b0973ae)
 ## Who am I?
-<!--- 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning ...
+My name is **Ryotaro Onoue** from Japan. 
+
+## I'm currently learning...
+<!--- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...-->
   - Flutter
   - Node.js(TypeScript)
   - Rust 
@@ -13,6 +14,16 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
+
+## Applications
+- [EQMonitor](https://github.com/EQMonitor/EQMonitor): 
+
+
+## Budges
+
+[![wakatime](https://wakatime.com/badge/user/b8084777-78d2-4ec7-9e14-90658b0973ae.svg)](https://wakatime.com/@b8084777-78d2-4ec7-9e14-90658b0973ae)
+
+
 [![Top 
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YumNumm&count_private=true)](https://github.com/YumNumm/github-readme-stats)
 ![Anurag's GitHub 
