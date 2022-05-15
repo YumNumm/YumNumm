@@ -1,6 +1,7 @@
 # Hi! 👋
 ## Who am I?
-My name is **Ryotaro Onoue** from Japan. 
+My name is **Ryotaro Onoue** from Japan.   
+I'm 17y/o and a student of YSFH. 
 
 ## I'm currently learning...
 <!--- 🔭 I’m currently working on ...
