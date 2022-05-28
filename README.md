@@ -28,7 +28,7 @@ I'm 17y/o and a student of YSFH.
 ## Budges
 ![Metrics](/github-metrics.svg)  
 --  
-![](/metrics.plugin.wakatime.svg)  
+[![](/metrics.plugin.wakatime.svg)](https://wakatime.com/@YumNumm)
 --  
 
 
