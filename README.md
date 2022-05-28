@@ -1,4 +1,5 @@
 # Hi! 👋
+![Metrics](/github-metrics.svg)
 ## Who am I?
 My name is **Ryotaro Onoue** from Japan.   
 I'm 17y/o and a student of YSFH. 
