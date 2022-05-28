@@ -1,5 +1,7 @@
 # Hi! 👋
-![Metrics](/github-metrics.svg)
+--
+![](/metrics.plugin.isocalendar.fullyear.svg)  
+
 ## Who am I?
 My name is **Ryotaro Onoue** from Japan.   
 I'm 17y/o and a student of YSFH. 
@@ -22,7 +24,10 @@ I'm 17y/o and a student of YSFH.
 
 
 ## Budges
-
+![Metrics](/github-metrics.svg)  
+--  
+![](/metrics.plugin.wakatime.svg)  
+--  
 [![wakatime](https://wakatime.com/badge/user/b8084777-78d2-4ec7-9e14-90658b0973ae.svg)](https://wakatime.com/@b8084777-78d2-4ec7-9e14-90658b0973ae)
 
 
