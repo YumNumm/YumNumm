@@ -7,7 +7,6 @@ I'm 17y/o and a student of YSFH.
 ![](/metrics.plugin.isocalendar.fullyear.svg)  
 
 [![wakatime](https://wakatime.com/badge/user/b8084777-78d2-4ec7-9e14-90658b0973ae.svg)](https://wakatime.com/@b8084777-78d2-4ec7-9e14-90658b0973ae)
-
 ![](https://visitor-badge.glitch.me/badge?page_id=YumNumm.yumnumm)
 
 ## I'm currently learning...
