@@ -37,5 +37,5 @@ I'm 17y/o and a student of YSFH.
 [![Top 
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YumNumm&count_private=true)](https://github.com/YumNumm/github-readme-stats)
 ![Anurag's GitHub 
-!stats](https://github-readme-stats.vercel.app/api?username=yumnumm&count_private=true&show_icons=true&theme=tokyonight)
+!stats](https://github-readme-stats.vercel.app/api?username=yumnumm&count_private=true&show_icons=true)
  [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=642cebc69a3e&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
