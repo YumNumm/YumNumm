@@ -26,7 +26,7 @@ I'm 17y/o and a student of YSFH.
 - [EQMonitor](https://github.com/EQMonitor/EQMonitor): 
 
 
-## Budges
+## Badges
 ![Metrics](/github-metrics.svg)  
 --  
 [![](/metrics.plugin.wakatime.svg)](https://wakatime.com/@YumNumm)
