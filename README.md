@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-I'm 17y/o and a student of YSFH.
+I'm 18y/o and a student of YSFH.
 
 ![](/metrics.plugin.isocalendar.fullyear.svg)
 
