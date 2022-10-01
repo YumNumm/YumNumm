@@ -1,19 +1,14 @@
-# Hi! 👋
-
-## Who am I?
-
-I'm 18y/o and a student of YSFH.
-
-<!---![](/metrics.plugin.isocalendar.fullyear.svg)--->
-[![](/metrics.plugin.wakatime.svg)](https://wakatime.com/@YumNumm)
-
-
 [![wakatime](https://wakatime.com/badge/user/b8084777-78d2-4ec7-9e14-90658b0973ae.svg)](https://wakatime.com/@b8084777-78d2-4ec7-9e14-90658b0973ae)
 ![](https://visitor-badge.glitch.me/badge?page_id=YumNumm.yumnumm)  
 [![Contributions](https://badgen.org/img/qiita/YumNumm/contributions?style=plastic)](https://qiita.com/YumNumm)
 [![Rating](https://badgen.org/img/atcoder/YumNumm/rating/algorithm?style=plastic)](https://atcoder.jp/users/YumNumm?contestType=algo)
 
 <a href="https://www.buymeacoffee.com/OnoueRyotaro" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+
+<!---![](/metrics.plugin.isocalendar.fullyear.svg)--->
+[![](/metrics.plugin.wakatime.svg)](https://wakatime.com/@YumNumm)
+
 
 <!---
 ## I'm currently learning...
