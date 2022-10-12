@@ -5,7 +5,7 @@
 
 <a href="https://www.buymeacoffee.com/OnoueRyotaro" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-# 開発しているもの達
+# Applications
 ## EQMonitor (地震観測・速報アプリケーション)
 [![45BD36DF-05A4-4875-B913-2F53FDAA48FF](https://user-images.githubusercontent.com/73390859/183258345-ac71c9ca-b794-4c00-bd7d-a9a20693464e.png)](https://github.com/EQMonitor/EQMonitor)
 
