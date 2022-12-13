@@ -5,9 +5,8 @@
 
 <a href="https://www.buymeacoffee.com/OnoueRyotaro" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-# Applications
-## EQMonitor (地震観測・速報アプリケーション)
-[![45BD36DF-05A4-4875-B913-2F53FDAA48FF](https://user-images.githubusercontent.com/73390859/183258345-ac71c9ca-b794-4c00-bd7d-a9a20693464e.png)](https://github.com/EQMonitor/EQMonitor)
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
 
 --- 
 
@@ -38,8 +37,5 @@
 ![Metrics](/github-metrics.svg)
 --
 
-[![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YumNumm&count_private=true)](https://github.com/YumNumm/github-readme-stats)
-![Anurag's GitHub
-!stats](https://github-readme-stats.vercel.app/api?username=yumnumm&count_private=true&show_icons=true)
+
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=642cebc69a3e&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
