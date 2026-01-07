@@ -23,7 +23,8 @@
 
 # 📆 Career
 
-- Flutter Engineer at [YUMEMI Inc.](https://yumemi.co.jp/) (2023/04 - Present)
+- **[YUMEMI Inc](https://yumemi.co.jp/)**: Flutter Engineer (2023/04 - 2025/11)
+- **[Accenture Japan Ltd](https://www.accenture.com/jp-ja)**: Product Engineering Associate Manager (Flutter Engineer, 2025/12~)
 
 # 🛠️ My Skills
 
