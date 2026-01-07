@@ -13,9 +13,6 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/YumNumm/contributions.svg" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YumNumm&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent" />
-</p>
 
 <!--START_SECTION:lapras-card-->
 <p align="center"><a href="https://lapras.com/public/O0OM7DF" target="_blank" rel="noopener noreferrer"><img alt="O0OM7DF's scores on LAPRAS are as follows: Engineering: 4.15 out of 5.0, Business: 3.36 out of 5.0, Influence: 3.95 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=4.15&b=3.36&i=3.95&b1=%23020e27&b2=%230b6bba&i1=%23062366&i2=%231688bf&l=en" width="400" ></a></p>
